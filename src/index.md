@@ -1,8 +1,8 @@
 ---
 layout: home
-title: 'Eleventy Duo'
+title: 'Breck-Wahp Chess Club'
 ---
 
-# Hello World
+# Greetings!
 
-Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs. Checkout the [project's github repo](https://github.com/yinkakun/eleventy-duo) for more info.
+This is the homepage for the Breckenridge-Wahpeton Chess Club. We will have postings about club events and tournament standings, so stay tuned to see more!

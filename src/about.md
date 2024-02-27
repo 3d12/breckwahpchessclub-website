@@ -1,14 +1,14 @@
 ---
-title: About Aidan Charles Powell
+title: About Breckenridge-Wahpeton Chess Club
 layout: about.njk
-name: Aidan Charles Powell
-image: '/images/me.jpeg'
+name: Breckenridge-Wahpeton Chess Club
+image: '/images/chess pieces3.jpg'
 ---
 
-Aidan Charles Powell is a 23-year-old health centre receptionist who enjoys watching television, eating out and social media. He is generous and giving, but can also be very rude and a bit lazy.
+Breckenridge-Wahpeton Chess Club is a gathering of players from the twin towns area of the southern Red River valley, who like to gather together to share their love of the game of chess!
 
-He is a Jedi who defines himself as straight. He has a degree in medicine. He is a vegetarian. He is obsessed with vintage dresses.
+Currently, the club meets at the **Breckenridge Public Library** on the **1st and 3rd Tuesdays** of each month. (205 7th St N, Breckenridge, MN 56520)
+* The 1st Tuesday of each month we discuss tactics or dive into game review and analysis
+* The 3rd Tuesday of each month is a free-to-enter swiss-style G/15 tournament, with individual prizes and a cumulative ranking system which encourages participation throughout the year
 
-He grew up in a middle class neighbourhood. After his mother died when he was young, he was raised by his father
-
-He is currently married to Maureen Erika Quinn. Maureen is 13 years older than him and works as a sales assistant.
+The club is hosted by Breckenridge Wahpeton Chess, a 501(c)(3) nonprofit organization founded and managed by Dominik Rauber.
