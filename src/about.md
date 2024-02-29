@@ -2,7 +2,7 @@
 title: About Breckenridge-Wahpeton Chess Club
 layout: about.njk
 name: Breckenridge-Wahpeton Chess Club
-image: '/images/chess pieces3.jpg'
+image: '/images/Website Logo.png'
 ---
 
 Breckenridge-Wahpeton Chess Club is a gathering of players from the twin towns area of the southern Red River valley, who like to gather together to share their love of the game of chess!
