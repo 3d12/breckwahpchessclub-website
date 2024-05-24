@@ -10,6 +10,11 @@
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
     {
+      "text": "Home",
+      "url": "/",
+      "external": false
+    },
+    {
       "text": "Blog",
       "url": "/blog",
       "external": false
@@ -26,6 +31,11 @@
     }
   ],
   "socialLinks": [
+    {
+      "text": "Chess.com",
+      "url": "https://www.chess.com/club/wahpeton-breckenridge-chess-club",
+      "external": true
+    },
     {
       "text": "Facebook",
       "url": "https://www.facebook.com/people/Breckenridge-Wahpeton-Chess/61554099290457/",
