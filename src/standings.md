@@ -3,6 +3,9 @@ title: Tournament Standings
 layout: standings.njk
 name: Breckenridge-Wahpeton Chess Club Tournament Standings
 ---
+Inaugural end-of-year club standings will be determined by totalling the **best 10 of 12** monthly tournament results for the year.
+
+A dot (.) indicates no participation in that tournament, equivalent to a score of 0.
 
 | Name          | Record    | January   | February  | March     | April     | May       | June      | July      |
 | ------------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
