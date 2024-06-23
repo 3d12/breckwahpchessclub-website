@@ -28,6 +28,11 @@
       "text": "Standings",
       "url": "/standings",
       "external": false
+    },
+    {
+      "text": "Org",
+      "url": "https://breckwahpchess.org",
+      "external": false
     }
   ],
   "socialLinks": [
