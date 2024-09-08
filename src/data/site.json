@@ -25,6 +25,11 @@
       "external": false
     },
     {
+      "text": "Calendar",
+      "url": "/calendar",
+      "external": false
+    },
+    {
       "text": "Standings",
       "url": "/standings",
       "external": false
@@ -42,6 +47,11 @@
       "external": true
     },
     {
+      "text": "Forum",
+      "url": "https://www.chess.com/clubs/forum/wahpeton-breckenridge-chess-club",
+      "external": true
+    },
+    {
       "text": "Facebook",
       "url": "https://www.facebook.com/people/Breckenridge-Wahpeton-Chess/61554099290457/",
       "external": true
@@ -49,6 +59,11 @@
     {
       "text": "GitHub",
       "url": "https://github.com/3d12/breckwahpchessclub-website",
+      "external": true
+    },
+    {
+      "text": "Email",
+      "url": "mailto:breckwahpchess@gmail.com",
       "external": true
     }
   ],
