@@ -3,8 +3,6 @@ layout: home
 title: 'Breck-Wahp Chess Club'
 ---
 
-# Breck-Wahp Chess Club
-
 <img src="/images/breckwahpchess_fixed.jpg"/>
 
 ## Find out what's happening with the club! View the [Events Calendar](/calendar)!
