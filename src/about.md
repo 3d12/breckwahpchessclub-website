@@ -7,7 +7,7 @@ image: '/images/Website Logo.png'
 
 Breckenridge-Wahpeton Chess Club is a gathering of players from the twin towns area of the southern Red River valley, who like to gather together to share their love of the game of chess!
 
-Currently, the club meets at the **Breckenridge Public Library** on the **1st and 3rd Tuesdays** of each month. (205 7th St N, Breckenridge, MN 56520)
+Currently, the club meets at the **Breckenridge Public Library** from **5pm-7pm** on the **1st and 3rd Tuesdays** of each month. (205 7th St N, Breckenridge, MN 56520)
 * The 1st Tuesday of each month we discuss tactics or dive into game review and analysis
 * The 3rd Tuesday of each month is a free-to-enter swiss-style G/15 tournament, with individual prizes and a cumulative ranking system which encourages participation throughout the year
 
