@@ -15,7 +15,7 @@ Speaking of journeys, what's next for the club? Well, just like last summer, we 
 
 First of all, just like last year, **Chess in the Park** is off to a windy start! Today is the first official day of the event, but this is an event held **every Saturday, 10:30am-1pm in Chahinkapa Park**. If you've been in the park and haven't seen us, don't worry! We're working on getting some signage so it will be easier to find us, but usually we're on the trail that cuts through the park by Hughes Shelter, like today:
 
-<a href="https://uc087bda101e0e623aa69de1be8d.dl.dropboxusercontent.com/cd/0/inline/Cp1fFp1tP5aP5foWM-EwrgQCmrqzWMCRUSqdHJubo9Iy0TAC3DAcTozAGiGXWr-TtiJeG-_jbl-yLBNhON-9F2M3pPbPKjdHx4tYZrAQnv8kKftwTmwYcXwyX9x_M23s5Mc/file#"><img src="https://uc087bda101e0e623aa69de1be8d.dl.dropboxusercontent.com/cd/0/inline/Cp1fFp1tP5aP5foWM-EwrgQCmrqzWMCRUSqdHJubo9Iy0TAC3DAcTozAGiGXWr-TtiJeG-_jbl-yLBNhON-9F2M3pPbPKjdHx4tYZrAQnv8kKftwTmwYcXwyX9x_M23s5Mc/file#" /></a>
+<a href="https://www.dropbox.com/scl/fi/n8vzz97j1ftdywb35mxld/IMG_20250517_105005393_HDR.jpg?rlkey=c0nfrrtnxfsahzg7mx38rzmri&st=odkp2bt3&raw=1"><img src="https://www.dropbox.com/scl/fi/n8vzz97j1ftdywb35mxld/IMG_20250517_105005393_HDR.jpg?rlkey=c0nfrrtnxfsahzg7mx38rzmri&st=odkp2bt3&raw=1" /></a>
 
 Just a reminder, this event is "weather permitting," so modifications and cancellations can and will happen. Fortunately, this year we have our [events calendar](/calendar) so we can communicate these changes near-instantaneously. If you want to stay up-to-date with chess events happening in your local area, please consider subscribing to our calendar!
 
